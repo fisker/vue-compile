@@ -35,7 +35,7 @@
     "fs-extra": "^8.1.0",
     "is-binary-path": "^2.0.0",
     "joycon": "^2.1.2",
-    "postcss": "^7.0.6",
+    "postcss": "^7.0.26",
     "postcss-load-config": "^2.0.0",
     "resolve": "^1.8.1",
     "resolve-from": "^5.0.0",
