@@ -23,7 +23,7 @@
   "author": "egoist <0x142857@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.7.7",
     "@babel/preset-typescript": "^7.0.0",
     "@vue/component-compiler-utils": "^3.0.0",
     "babel-preset-minimal": "^0.1.2",
