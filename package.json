@@ -50,7 +50,7 @@
     "@types/node-sass": "^4.11.0",
     "@types/stringify-attributes": "^2.0.0",
     "@typescript-eslint/eslint-plugin": "^1.11.0",
-    "@typescript-eslint/parser": "^1.11.0",
+    "@typescript-eslint/parser": "^1.13.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-config-rem": "^4.0.0",
     "eslint-config-xo-typescript": "^0.15.0",
